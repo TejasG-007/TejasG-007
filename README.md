@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img align="left" alt="TejasG Github Stats" src="https://github-readme-stats.vercel.app/api?username=TejasG-007&show_icons=true&hide_border=true" />
 
 [website]: http://tejasg.me/?i=1
-[youtube]: https://www.youtube.com/channel/UCZP7e3tdxPUtY2hHnwx5_4w
+[youtube]: https://m.youtube.com/channel/UCZz8rJ_Ic1G6Nmc7M47j5NA
 [instagram]: https://instagram.com/tejasg007
-[linkedin]: https://www.linkedin.com/in/adityamahajan123/
+[linkedin]: https://www.linkedin.com/in/tejas-gathekar-661a22162
 
