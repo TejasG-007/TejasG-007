@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to teach and go out for capturing nature into snapshots : 
-[<img alt="Tejas Gathekar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
+[<img alt="Tejas Gathekar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 ### Connect with me:
 
-[<img align="left" alt="http://adityamahajan.ml/?i=1" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="http://tejasg.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Tejas Gathekar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Tejas Gathekar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tejas Gathekar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="TejasG Github Stats" src="https://github-readme-stats.vercel.app/api?username=TejasG-007&show_icons=true&hide_border=true" />
 
-[website]: http://tejasg.me/?i=1
+[website]: http://tejasg.me/
 [youtube]: https://m.youtube.com/channel/UCZz8rJ_Ic1G6Nmc7M47j5NA
 [instagram]: https://instagram.com/tejasg007
 [linkedin]: https://www.linkedin.com/in/tejas-gathekar-661a22162
